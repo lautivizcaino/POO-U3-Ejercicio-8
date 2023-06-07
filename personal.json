@@ -1,0 +1,59 @@
+{
+    "__class__": "ListaAgentes",
+    "agentes": [
+        {
+            "__class__": "Apoyo",
+            "__atributos__": {
+                "cuil": "20-45123789-6",
+                "apellido": "Francescoli",
+                "nombre": "Enzo",
+                "sueldo": 25000.0,
+                "antiguedad": 5,
+                "categoria": 21
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "16-89456123-7",
+                "apellido": "Labruna",
+                "nombre": "Angel",
+                "sueldo": 35000.0,
+                "antiguedad": 12,
+                "carrera": "Licenciatura en Sistemas de Informacion",
+                "cargo": "Simple",
+                "catedra": "Analisis Matematico"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "8-56123789-1",
+                "apellido": "Alonso",
+                "nombre": "Norberto",
+                "sueldo": 25000.0,
+                "antiguedad": 9,
+                "area": "Informatica",
+                "tipo": "Experimental"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "7-78456123-5",
+                "apellido": "Armani",
+                "nombre": "Franco",
+                "sueldo": 40000.0,
+                "antiguedad": 3,
+                "carrera": "Licenciatura en Ciencias de la Computacion",
+                "cargo": "Exclusivo",
+                "catedra": "Matematica Discreta",
+                "area": "Informatica",
+                "tipo": "Profesor Titular",
+                "categoriaPrograma": "V",
+                "importe": 500.0,
+                "investigacion": "Nuevos Lenguajes"
+            }
+        }
+    ]
+}
